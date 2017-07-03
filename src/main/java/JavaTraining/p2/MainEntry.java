@@ -13,7 +13,9 @@ public static void main(String args[])
 	//not accessible since Internal class is default
 	
 	obj.show();
-	obj.show1(); 
+	obj.show1();
+
+	System.out.println("Hello...");
 
 	
 	Abcd obj2 = new Abcd();
